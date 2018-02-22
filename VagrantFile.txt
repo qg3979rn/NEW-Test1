@@ -75,5 +75,3 @@ box1.vm.box="ubuntu/trusty64"
  end
 
 
-end
-
